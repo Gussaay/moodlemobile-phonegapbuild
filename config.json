@@ -17,9 +17,10 @@
         75.89,
         93.75
     ],
-     "demo_sites": {},
+    "demo_sites": {
     "siteurl": "https://easy-pedia.moodlecloud.com/",
     "gcmpn": "easy-pedia",
+        },
     "customurlscheme": "moodlemobile",
     "siteurl": "http://easy-pedia.moodlecloud.com",
     "sitename": "easy-pedia",
