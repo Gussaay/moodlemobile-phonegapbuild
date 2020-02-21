@@ -7,10 +7,10 @@
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>easy-pedia</name>
 
     <description>
-        Moodle official app
+        easy pedia official app by Dr. Qusay Eltayeb
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
