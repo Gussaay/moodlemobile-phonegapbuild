@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.easy-pedia.courses"
         versionCode = "38000"
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
@@ -13,7 +13,7 @@
         app designed by Dr. Qusay Mohamed
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://easy-pedia.moodlecloud.com" email="gussaay@gmail.com">
         Moodle Mobile team
     </author>
 
